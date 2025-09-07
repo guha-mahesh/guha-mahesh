@@ -12,5 +12,5 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-red) ![Static Badge](https://img.shields.io/badge/MySQL-red) ![Static Badge](https://img.shields.io/badge/Flask-green)
 
 ## Libraries & Data Science
-![Static Badge](https://img.shields.io/badge/Pandas-green) ![Static Badge](https://img.shields.io/badge/scikit-learn-green) ![Static Badge](https://img.shields.io/badge/numpy-red)
+![Static Badge](https://img.shields.io/badge/Pandas-green) ![Static Badge](https://img.shields.io/badge/sklearn-green) ![Static Badge](https://img.shields.io/badge/numpy-red)
 ![Static Badge](https://img.shields.io/badge/JupyterNotebook-orange) ![Static Badge](https://img.shields.io/badge/matplotlib-green)
