@@ -1,4 +1,5 @@
 # Guha Mahesh
+# guhamaheshv@gmail.com • 346-368-4903
 
 
 ## Languages: 
@@ -11,3 +12,6 @@
 ## Libraries & Data Science
 ![Static Badge](https://img.shields.io/badge/Pandas-green) ![Static Badge](https://img.shields.io/badge/sklearn-lightred) ![Static Badge](https://img.shields.io/badge/numpy-red)
 ![Static Badge](https://img.shields.io/badge/JupyterNotebook-orange) ![Static Badge](https://img.shields.io/badge/matplotlib-green)
+
+
+## [(https://guhub.vercel.app)] 
