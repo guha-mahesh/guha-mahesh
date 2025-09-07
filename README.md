@@ -1,6 +1,3 @@
-# -README
-
-
 # Guha Mahesh
 
 
