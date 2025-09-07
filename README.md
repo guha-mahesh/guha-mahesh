@@ -9,7 +9,7 @@
 
 ## Tools & Frameworks:
 ![Static Badge](https://img.shields.io/badge/docker-lightblue) ![Static Badge](https://img.shields.io/badge/React-orange) ![Static Badge](https://img.shields.io/badge/MySQL-red)
-![Static Badge](https://img.shields.io/badge/MySQL-red) ![Static Badge](https://img.shields.io/badge/MySQL-red) ![Static Badge](https://img.shields.io/badge/Flask-green)
+![Static Badge](https://img.shields.io/badge/Flask-green)
 
 ## Libraries & Data Science
 ![Static Badge](https://img.shields.io/badge/Pandas-green) ![Static Badge](https://img.shields.io/badge/sklearn-green) ![Static Badge](https://img.shields.io/badge/numpy-red)
