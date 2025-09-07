@@ -1,17 +1,27 @@
 # Guha Mahesh
-guhamaheshv@gmail.com • 346-368-4903
+📧 guhamaheshv@gmail.com • 📱 346-368-4903  
+🌐 [Portfolio](https://guhub.vercel.app)
 
+---
 
-## Languages: 
-![Static Badge](https://img.shields.io/badge/python-green) ![Static Badge](https://img.shields.io/badge/TypeScript-blue) ![Static Badge](https://img.shields.io/badge/SQL-red)
+## 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Tools & Frameworks:
-![Static Badge](https://img.shields.io/badge/docker-lightblue) ![Static Badge](https://img.shields.io/badge/React-orange) ![Static Badge](https://img.shields.io/badge/MySQL-red)
-![Static Badge](https://img.shields.io/badge/Flask-green)
+---
 
-## Libraries & Data Science
-![Static Badge](https://img.shields.io/badge/Pandas-green) ![Static Badge](https://img.shields.io/badge/sklearn-lightred) ![Static Badge](https://img.shields.io/badge/numpy-red)
-![Static Badge](https://img.shields.io/badge/JupyterNotebook-orange) ![Static Badge](https://img.shields.io/badge/matplotlib-green)
+## 🛠 Tools & Frameworks
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+---
 
-## https://guhub.vercel.app
+## 📊 Data Science & Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
