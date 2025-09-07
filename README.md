@@ -14,4 +14,4 @@ guhamaheshv@gmail.com • 346-368-4903
 ![Static Badge](https://img.shields.io/badge/JupyterNotebook-orange) ![Static Badge](https://img.shields.io/badge/matplotlib-green)
 
 
-## [(https://guhub.vercel.app)] 
+## https://guhub.vercel.app
