@@ -1,5 +1,5 @@
 # Guha Mahesh
-# guhamaheshv@gmail.com • 346-368-4903
+guhamaheshv@gmail.com • 346-368-4903
 
 
 ## Languages: 
