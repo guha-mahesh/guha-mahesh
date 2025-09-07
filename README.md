@@ -1,16 +1,16 @@
-## Hi there 👋
+# -README
 
-<!--
-**guha-mahesh/guha-mahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Guha Mahesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages: 
+![Static Badge](https://img.shields.io/badge/python-green)![Static Badge](https://img.shields.io/badge/TypeScript-blue)![Static Badge](https://img.shields.io/badge/SQL-red)
+
+## Tools & Frameworks:
+![Static Badge](https://img.shields.io/badge/docker-lightblue)![Static Badge](https://img.shields.io/badge/React-orange)![Static Badge](https://img.shields.io/badge/MySQL-red)
+![Static Badge](https://img.shields.io/badge/MySQL-red)![Static Badge](https://img.shields.io/badge/MySQL-red)![Static Badge](https://img.shields.io/badge/Flask-green)
+
+## Libraries & Data Science
+![Static Badge](https://img.shields.io/badge/Pandas-green)![Static Badge](https://img.shields.io/badge/scikit-learn-green)![Static Badge](https://img.shields.io/badge/numpy-red)
+![Static Badge](https://img.shields.io/badge/JupyterNotebook-orange)![Static Badge](https://img.shields.io/badge/matplotlib-green)
