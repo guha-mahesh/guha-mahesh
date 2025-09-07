@@ -26,4 +26,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-![Talk to me](https://img.shields.io/badge/Talk%20to%20me-🌍%20Ethics%20%26%20Data%20Science-blue?style=for-the-badge)
+
+> 💬 Talk to me about **geopolitics, ethics, and data science!**
+
+
