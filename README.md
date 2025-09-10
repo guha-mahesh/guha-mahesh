@@ -27,6 +27,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 
-> 💬 Talk to me about **geopolitics, ethics, *Music*, and data science!**
+> 💬 Talk to me about **geopolitics, ethics, **Music**, and data science!**
 
 
