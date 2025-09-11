@@ -1,6 +1,6 @@
 # Guha Mahesh
 📧 guhamaheshv@gmail.com • 📱 346-368-4903  
-🌐 [Portfolio](https://guhub.vercel.app)
+
 
 ---
 
