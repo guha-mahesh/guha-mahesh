@@ -29,6 +29,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
+[![Arbor Card](https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/guiha.png)](https://arbor.com/guiha)
+
+
 > 💬 Talk to me about **geopolitics, ethics, **music**, and data science!**
 
 
