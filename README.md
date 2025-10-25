@@ -39,5 +39,5 @@
 
 <!-- ARBOR_CARD -->
 
-[![Arbor Card](https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/gurt.png)](https://arbor-blue.vercel.app/gurt)
+[![Arbor Card](undefined)](https://arbor-blue.vercel.app/asdasd)
 <!-- ARBOR_CARD -->
