@@ -37,7 +37,3 @@
 
 
 
-<!-- ARBOR_CARD -->
-
-[![Arbor Card](undefined)](https://arbor-blue.vercel.app/asdasd)
-<!-- ARBOR_CARD -->
