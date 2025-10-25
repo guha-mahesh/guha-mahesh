@@ -35,9 +35,3 @@
 > 💬 Talk to me about **geopolitics, ethics, **music**, and data science!**
 
 
-
-
-<!-- ARBOR_CARD -->
-
-[![Arbor Card](undefined)](https://arbor-blue.vercel.app/asdasd)
-<!-- ARBOR_CARD -->
