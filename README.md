@@ -36,19 +36,3 @@
 
 
 
-
-## Check out arbor!
-
-<!-- ARBOR_CARD -->
-
-<div align="center">
-
-### My Cultural Identity Card
-
-[![Arbor Card](https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/guha.png?v=2)](https://arbor-blue.vercel.app/guha)
-
-*Click to explore my tastes in music, film, books & philosophy*
-
-</div>
-
-<!-- ARBOR_CARD -->
