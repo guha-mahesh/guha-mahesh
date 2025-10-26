@@ -36,14 +36,6 @@
 
 
 
-
-
-
-
-
-
-
-<br><br><br><br><br><br>
 ## Check out arbor!
 <!-- ARBOR_CARD -->
 <div align="center">
