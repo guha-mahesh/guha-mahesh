@@ -40,5 +40,5 @@
 
 <!-- ARBOR_CARD -->
 
-[![Arbor Card](undefined)](https://arbor-blue.vercel.app/badnnit)
+[![Arbor Card](https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/guiha.png)](https://arbor-blue.vercel.app/guiha)
 <!-- ARBOR_CARD -->
