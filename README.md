@@ -44,8 +44,3 @@
 
 
 <br><br><br><br><br><br>
-
-<!-- ARBOR_CARD -->
-
-[![Arbor Card](https://arbor-blue.vercel.app/api/card-image/guiha)](https://arbor-blue.vercel.app/guiha)
-<!-- ARBOR_CARD -->
