@@ -44,8 +44,3 @@
 
 
 <br><br><br><br><br><br>
-
-<!-- ARBOR_CARD -->
-
-
-<!-- ARBOR_CARD -->
