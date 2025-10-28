@@ -38,8 +38,10 @@
 <div align="center">
 
 ### My Cultural Identity Card
-<br/><br/>
 *powered by arbor*
+
+<br/><br/>
+
 
 
 <a href="https://arbor-blue.vercel.app/guha">
