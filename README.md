@@ -48,6 +48,7 @@
   <img src="https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/guha.png?v=1761667778271" alt="Arbor Card" width="400">
 </a>
 <br/>
+<br/>
 *Click to explore my tastes in music, film, books & philosophy*
 
 </div>
