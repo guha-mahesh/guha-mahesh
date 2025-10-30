@@ -44,7 +44,7 @@
 <br/><br/>
 
 <a href="https://arbor-blue.vercel.app/guha">
-  <img src="https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/guha.png?v=1761764723351" alt="Arbor Card" width="400">
+  <img src="https://pub-150e34d764c54fc9856328d85f4e7d45.r2.dev/cards/guha.png?v=1761791265913" alt="Arbor Card" width="400">
 </a>
 
 <br/><br/>
