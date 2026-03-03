@@ -38,7 +38,6 @@
 <div align="center">
 
 
-*powered by arbor*
 
 
 <br/><br/>
@@ -50,6 +49,9 @@
 <br/><br/>
 
 *Click to explore my tastes in music, film, books & philosophy*
+*powered by arbor*
+
+
 
 </div>
 
