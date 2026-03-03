@@ -37,7 +37,7 @@
 <!-- ARBOR_CARD -->
 <div align="center">
 
-### My Cultural Identity Card
+
 *powered by arbor*
 
 
