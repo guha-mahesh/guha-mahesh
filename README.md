@@ -49,6 +49,7 @@
 <br/><br/>
 
 *Click to explore my tastes in music, film, books & philosophy*
+<br></br>
 *powered by arbor*
 
 
