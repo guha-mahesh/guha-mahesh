@@ -37,8 +37,8 @@
 <!-- ARBOR_CARD -->
 <div align="center">
 
-### My Cultural Identity Card
-*powered by arbor*
+
+
 
 
 <br/><br/>
@@ -50,6 +50,8 @@
 <br/><br/>
 
 *Click to explore my tastes in music, film, books & philosophy*
+<br></br>
+*powered by arbor*
 
 </div>
 
